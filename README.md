@@ -14,3 +14,6 @@ We used GPT-3.5-Turbo as our Main LLM model for this work. To try our model, you
 The LLM model used can be changed in the genLLM_ functions (more precisely in the OpenAi functions) accordingly to the OpenAI API documentation. 
 
 You can learn more about this project in our related paper : LINK OF THE PAPER
+
+ipynb file in files.
+Link to collab: https://colab.research.google.com/drive/1CRTSHzjja-GZ21v_0l-pWCHyZwgzspDj?usp=sharing
