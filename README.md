@@ -1,7 +1,7 @@
 # LLM-Guided-GA
 ![LLM_GA(1)](https://user-images.githubusercontent.com/81431282/233483444-b1b8e97e-8181-4abc-a9d3-d1f36d21f006.png)
 
-Project made by Benjamin Weiser, Jerome Genzling, Nicolas Gastellu, Sylvester Zhang, Tao Liu and Alexander Al-Fenghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
+Project made by Benjamin Weiser, Jerome Genzling, Nicolas Gastellu, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
 
 Part of McGill ChemAI submission to the first LLM Hackaton for Chemistry.
 
