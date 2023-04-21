@@ -1,5 +1,5 @@
 # LLM-Guided-GA
-![LLM_GA(1)](https://user-images.githubusercontent.com/81431282/233483444-b1b8e97e-8181-4abc-a9d3-d1f36d21f006.png)
+![LLM_GA(3)](https://user-images.githubusercontent.com/81431282/233686394-0a5158af-6733-494d-812a-abe9bc607ab2.png)
 
 Project made by Benjamin Weiser, Jerome Genzling, Nicolas Gastellu, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
 
