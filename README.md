@@ -15,6 +15,6 @@ The LLM model used can be changed in the genLLM_ functions (more precisely in th
 
 You can learn more about this project in our related paper : LINK OF THE PAPER
 
-ipynb file in files
+ipynb file in files. Contains GA as well as LLM implementation.
 
 Link to collab: https://colab.research.google.com/drive/1CRTSHzjja-GZ21v_0l-pWCHyZwgzspDj?usp=sharing
